@@ -1,15 +1,15 @@
-![Alt text](./assets/onja_logo.png)
+![Alt text](./onja_logo.png)
 ## Welcome to Our Intro Website
 
 We are going to build a Markdown intro website. You might have written plain text documents before, but Markdown helps make your text more organized and easier to consume. Look at the two pieces of text below and think about which is easier to read and more pleasant on the eyes.
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-  <img src='./assets/non_markdown_image.png'>
+  <img src='./non_markdown_image.png'>
 
   <strong style=''>vs</strong>
 
-<img src='./assets/markdown_image.png'>
+<img src='./markdown_image.png'>
 
 </div>
 
